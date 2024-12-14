@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm **Hardik Vaghani**, a passionate **mobile app 
 ## 🎨 My Skillset
 - Languages: `Kotlin`, `Java`
 - Tools: `Android Studio`, `Git, Postman`
-- Frameworks & Libraries: `Jetpack Compose`, Retrofit`, `Firebase`
+- Frameworks & Libraries: `Jetpack Compose`, `Retrofit`, `Firebase`
 
 ## 📬 How to Reach Me
 - 📧 Email: **hardik.devtools@gmail.com**
