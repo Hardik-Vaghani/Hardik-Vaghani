@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm **Hardik Vaghani**, a passionate **mobile app 
 ## 📬 How to Reach Me
 - 📧 **Email**: [hardik.devtools@gmail.com](mailto:hardik.devtools@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/hardik-vaghani](https://www.linkedin.com/in/hardik-vaghani)
-- 🌟 **GitHub**: [github.com/Hardik-Vaghani](https://github.com/Hardik-Vaghani)  
+- 🌟 **GitHub**: [github.com/Hardik-Vaghani](https://github.com/hardik-vaghani)  
 <!--
 - 📧 Email: **hardik.devtools@gmail.com**
 - 💼 LinkedIn: **linkedin.com/in/hardik-vaghani**
